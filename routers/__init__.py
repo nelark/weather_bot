@@ -1,0 +1,5 @@
+from routers.main_router import main_router
+from routers.saving_location_router import saving_location_router
+from routers.checking_weather_router import checking_weather_router
+from routers.checking_locations_router import checking_locations_router
+from routers.catching_unknown_update_router import catching_unknown_updates_router
